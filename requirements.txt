@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+statsforecast
+mlforecast
+xgboost
+window-ops
+toolz
