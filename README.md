@@ -56,7 +56,7 @@
     ```
 
 4.  **Подготовка данных**
-    Скачайте датасет [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/data) и поместите файлы `sales_train_evaluation.csv`, `calendar.csv`, `sell_prices.csv` в корневую директорию проекта.
+    Скачайте датасет [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/data) и поместите файлы `sales_train_evaluation.csv`, `calendar.csv`, `sell_prices.csv` в корневую директорию проекта.(файлы находятся в архиве групповой проект)
 
 5.  **Запуск приложения**
     ```bash
