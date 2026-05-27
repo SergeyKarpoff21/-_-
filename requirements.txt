@@ -1,9 +1,1 @@
-streamlit
-pandas
-numpy
-plotly
-statsforecast
-mlforecast
-xgboost
-window-ops
-toolz
+python-telegram-bot==20.8
